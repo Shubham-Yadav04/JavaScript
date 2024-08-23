@@ -48,4 +48,3 @@ console.log(companies);// output : ['Micrsoft', 'Google', 'OLA', 'IBM', 'Netflix
 
 companies.push("Amazon");
 console.log(companies); //output : ['Micrsoft', 'Google', 'OLA', 'IBM', 'Netflix', 'Amazon']
-
